@@ -3,7 +3,7 @@ import Dashboard from "./pages/Dashboard/Dashboard";
 import Layout from "./components/Layout/Layout";
 import Calendar from "./pages/Calendar/Calendar";
 import BoardPage from "./pages/Board/Board";
-import DataGrid from "./pages/DataGrid/Datagrid";
+import DataGrid from "./pages/DataGrid/DataGrid";
 
 const App = () => {
   return (
